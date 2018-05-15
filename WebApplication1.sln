@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{37465616-CE86-4BAC-BA06-776EB09C05AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{C9EE149C-E432-4FD4-8100-6E5E686DA4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{5D44EDE2-B879-4199-9EAA-501E603C79F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37465616-CE86-4BAC-BA06-776EB09C05AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37465616-CE86-4BAC-BA06-776EB09C05AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37465616-CE86-4BAC-BA06-776EB09C05AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37465616-CE86-4BAC-BA06-776EB09C05AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EE149C-E432-4FD4-8100-6E5E686DA4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EE149C-E432-4FD4-8100-6E5E686DA4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EE149C-E432-4FD4-8100-6E5E686DA4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EE149C-E432-4FD4-8100-6E5E686DA4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D44EDE2-B879-4199-9EAA-501E603C79F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D44EDE2-B879-4199-9EAA-501E603C79F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D44EDE2-B879-4199-9EAA-501E603C79F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D44EDE2-B879-4199-9EAA-501E603C79F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71162F37-1865-4B67-8379-D6C394AB7CC2}
+	EndGlobalSection
+EndGlobal
